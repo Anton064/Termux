@@ -6,5 +6,7 @@ rm -rf bash.bashrc
 clear
 git clone https://github.com/Anton064/Termux.git 
 clear cd Termux && cp -r bash.bashrc .install /data/data/com.termux/files/usr/etc 
+cp -r .message  /data/data/com.termux/files/home
 clear 
 cd
+./.message
