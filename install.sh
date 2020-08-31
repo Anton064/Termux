@@ -1,6 +1,8 @@
 red="\033[1;32m"
 
 cd
+pkg install pv
+clear
 cd ..
 cd usr/etc
 rm -rf bash.bashrc
