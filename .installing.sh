@@ -9,4 +9,3 @@ clear cd Termux && cp -r bash.bashrc .installing.sh /data/data/com.termux/files/
 cp -r .message  /data/data/com.termux/files/home
 clear 
 cd
-~/.message
