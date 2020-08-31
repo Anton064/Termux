@@ -1,4 +1,5 @@
-~/.installing.sh
+chmod +x *
+bash /data/data/com.termux/files/usr/etc/.installing.sh
 clear
 echo "Termux app, apt update" | pv -qL 7
 apt update
