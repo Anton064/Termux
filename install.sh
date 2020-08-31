@@ -1,0 +1,2 @@
+cd
+cp -r Termux
