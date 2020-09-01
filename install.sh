@@ -6,6 +6,7 @@ clear
 cd ..
 cd usr/etc
 rm -rf bash.bashrc
+cd
 cd Termux 
 cp -r .installing.sh bash.bashrc /data/data/com.termux/files/usr/etc
 cd ..
