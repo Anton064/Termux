@@ -1,4 +1,3 @@
-pkg install git
 clear
 cd && cd .. && cd usr/etc
 clear
